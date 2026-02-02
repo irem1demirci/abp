@@ -1,5 +1,3 @@
-# **NDC London 2026 Event Recap: Trends in .NET, AI, and Software Architecture**
-
 The software development world converged on the **Queen Elizabeth II Centre** in Westminster from **January 26-30** for **NDC London 2026**. As one of the most anticipated tech conferences in Europe, this year’s event delivered a masterclass in the future of the stack.
 
 We have spent five days immersed in workshops and sessions. Here is our comprehensive recap of the highlights and the technical shifts that will define 2026\.
